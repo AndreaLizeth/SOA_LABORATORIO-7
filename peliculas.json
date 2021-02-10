@@ -1,0 +1,23 @@
+
+ {
+   "peliculas":[
+      {
+         "nombre":"Harry potter y las reliquias de la muerte parte 2",
+         "descripcion":"Pelicula final de la exitosa saga de harry potter",
+         "img":"../img/harryPotter7.jpg",
+         "trailer":"https://www.youtube.com/watch?v=I8KCaGH780w"
+      },
+      {
+         "nombre":"Rapido y furioso 9",
+         "descripcion":"Vin diesel vuelve a la  carga...",
+         "img":"../img/rapidoFurioso9.jpeg",
+         "trailer":"https://www.youtube.com/watch?v=SG_dim5MblE"
+      },
+      {
+         "nombre":"El joker",
+         "descripcion":"El terror ha ciudad gotica ha llegado...",
+         "img":"../img/joker.jpg",
+         "trailer":"https://www.youtube.com/watch?v=UVPkb6WEBV0"
+      }
+   ]
+}
